@@ -30,9 +30,6 @@ origin	https://github.com/Jdoublee/CodingTestPractice.git (push)
 $ git pull origin master
 From https://github.com/Jdoublee/CodingTestPractice
  * branch            master     -> FETCH_HEAD
-(base) HYEWON:Github hyewon$ git status
-On branch master
-nothing to commit, working tree clean
 ```
 
 
