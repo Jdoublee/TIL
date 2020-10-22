@@ -6,4 +6,5 @@
 
 - git
 - cpp
+- python
 - 알고리즘
