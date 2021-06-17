@@ -9,3 +9,4 @@
 - python
 - 알고리즘
 - notion
+- app : aos, ios
